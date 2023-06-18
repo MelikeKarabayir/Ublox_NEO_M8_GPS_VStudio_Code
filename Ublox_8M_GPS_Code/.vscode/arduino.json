@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "sketch": "Ublox_8M_GPS_Code.ino",
+    "port": "COM3"
+}
